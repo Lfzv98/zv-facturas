@@ -1,0 +1,22 @@
+{
+  "short_name": "ZV Suite",
+  "name": "ZV Consulting Group - Financial Suite",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "display": "standalone"
+}
